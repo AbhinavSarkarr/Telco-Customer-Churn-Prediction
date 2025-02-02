@@ -1,0 +1,5 @@
+venv
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+customer_churn.db
+__pycache__
+notebooks/customer_chrun_prediction_v1.py

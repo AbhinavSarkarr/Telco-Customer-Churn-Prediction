@@ -1,0 +1,13 @@
+pandas 
+numpy
+matplotlib
+db-sqlite3
+scikit-learn==1.5.1
+imblearn
+seaborn
+xgboost
+jupytext
+tensorflow
+
+
+#https://github.com/ShivaliPatel/Data-science-projects/blob/master/Telco_customer_churn/Notebooks/Telco%20customer%20churn%20-%20Exploratory%20data%20analysis%20(EDA).ipynb
